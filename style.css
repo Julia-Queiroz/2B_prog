@@ -1,5 +1,5 @@
 * {
-    margin: 2;
+    margin: 1;
     padding: 1;
 }
 
@@ -9,15 +9,15 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px 0;
+    padding: 25px 400;
 }
 
 .cabecalho-imagem{
-    width: 10%;
+    width: 8%;
 }
 
 .cabecalho-lista-item{
     display: inline-block;
-    margin: 0 16px;
-    font-size: 24px;
+    margin: 5 16px;
+    font-size: 50px;
 }
