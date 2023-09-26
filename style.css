@@ -26,7 +26,8 @@ body {
 }
 
 .escola-imagem{
-    width: 25%;
+    width: 18%;
+    padding: 50px;
 }
 
 .escola{
@@ -52,7 +53,7 @@ body {
     background-image: linear-gradient(#ffffff,#bb1a1a);
 }
 .estudante-imagem{
-    width: 120px;
+    width: 200px;
 }
 
 .estudante-icone{
